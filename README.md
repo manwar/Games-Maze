@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/manwar/Games-Maze/workflows/test/badge.svg)](https://github.com/manwar/Games-Maze/actions)
+
 NAME
 ====
 

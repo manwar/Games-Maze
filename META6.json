@@ -12,7 +12,7 @@
     "Games::Maze" : "lib/Games/Maze.rakumod"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "https://github.com/manwar/Games-Maze.git",
   "tags" : [ ],
   "test-depends" : [ ],
   "version" : "0.0.1"
