@@ -1,0 +1,6 @@
+use Test;
+use Games::Maze;
+
+pass "replace me";
+
+done-testing;

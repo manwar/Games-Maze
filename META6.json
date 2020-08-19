@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    "Mohammad S Anwar"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "Maze generator.",
+  "license" : "Artistic-2.0",
+  "name" : "Games::Maze",
+  "perl" : "6.d",
+  "provides" : {
+    "Games::Maze" : "lib/Games/Maze.rakumod"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
